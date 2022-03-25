@@ -75,7 +75,7 @@ andrey@WS01:~/142$ kubectl port-forward 14.2-netology-vault 8200:8200
 ```
 ![screen1](https://github.com/andrey-tyumin/clokub-homeworks/blob/main/14.2-vault/hw142-screen1.png)
 
-Задача 2 (*): Работа с секретами внутри модуля  
+#### Задача 2 (*): Работа с секретами внутри модуля  
     На основе образа fedora создать модуль;  
     Создать секрет, в котором будет указан токен;  
     Подключить секрет к модулю;  
